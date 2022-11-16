@@ -1,0 +1,55 @@
+**/.classpath
+**/.project
+*~
+**/*.swp
+tmp/**/*
+**/*.iml
+**/test-output
+**/out
+**/*.class
+**/.setting*
+**/.externalToolBuilders
+**/.metadata/
+**/surefire-reports
+/bin
+**/.springBeans
+.eslintrc.json
+
+#.isomorphic-loader-config.lock
+**/bin
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE generated files #
+#######################
+.idea/
+.idea/**/*
+.vscode
+
+# gradle generated files #
+##########################
+.gradle/
+.gradle/**/*
+
+# build files #
+###############
+build/
+**/build
+
+# target files #
+################
+target/
+**/target
+
+# Logs #
+########
+**/*.log
+mqjms.log.*
